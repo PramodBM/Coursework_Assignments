@@ -1,0 +1,11 @@
+Sample ID,Individual ID,Nationality,Sampling day (relative to September 20th 2007),Gender,Age,BMI,Health Status,Known consumers of a defined fermented milk product (DFMP),MGS richness,MGS profile matched sample pairs
+MH0001,MH0001,danish,NA,F,49,25.6,Healthy,NA,156,
+MH0002,MH0002,danish,NA,F,59,27.3,Healthy,NA,164,
+MH0184,MH0184,danish,NA,F,59,41.3,Healthy,NA,160,
+O2.UC1.0,O2.UC1,spanish,409,M,37,31,Ulcerative colitis,NA,184,O2.UC1
+O2.UC1.2,O2.UC1,spanish,490,M,37,NA,Ulcerative colitis,DFMP,203,O2.UC1
+O2.UC49.0,O2.UC49,spanish,0,F,22,23.1,Healthy,NA,104,O2.UC49
+O2.UC49.2,O2.UC49,spanish,76,F,22,NA,Healthy,NA,154,O2.UC49
+V1.CD1.0,V1.CD1,spanish,196,F,25,17.9,Crohns disease,NA,80,
+V1.CD11.0,V1.CD11,spanish,354,F,62,35.5,Healthy relative,NA,87,
+V1.CD12.0,V1.CD12,spanish,386,F,41,20.2,Crohns disease,NA,39,
